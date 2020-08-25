@@ -1,3 +1,3 @@
 module.exports = {
-	publicPath: '/search/'
+	publicPath: '/Search-in-array/'
 }
